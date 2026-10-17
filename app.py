@@ -32,14 +32,14 @@ MENU_TEA = {
 
 # Danh sách hình ảnh tương ứng với từng món (Có thể thay URL bằng file nội bộ, ví dụ: "images/matcha.jpg")
 MENU_IMAGES = {
-    "Trà Sữa Truyền Thống": "https://images.unsplash.com/photo-1558857563-b371033873b8?w=500",
-    "Trà Sữa Trân Châu Đường Đen": "https://images.unsplash.com/photo-1541658016709-82535e94bc69?w=500",
-    "Trà Sữa Thái Xanh": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=500",
-    "Trà Sữa Ô Long": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=500",
-    "Trà Sữa Matcha": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=500",
-    "Trà Sữa Dâu Tây": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=500",
-    "Trà Đào Cam Sả": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=500",
-    "Trà Dâu Tằm": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=500",
+    "Trà Sữa Truyền Thống": "https://images.unsplash.com/photo-1558857563-b371033873b8?w=600",
+    "Trà Sữa Trân Châu Đường Đen": "https://images.unsplash.com/photo-1541658016709-82535e94bc69?w=600",
+    "Trà Sữa Thái Xanh": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=600",
+    "Trà Sữa Ô Long": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600",
+    "Trà Sữa Matcha": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=600",
+    "Trà Sữa Dâu Tây": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=600",
+    "Trà Đào Cam Sả": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=600",
+    "Trà Dâu Tằm": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=600",
 }
 
 SIZE_OPTIONS = {
