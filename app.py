@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-
+st.image("TRASUA.jpg")
 # ---------------------------------------------------------
 # CẤU HÌNH TRANG & CƠ SỞ DỮ LIỆU SẢN PHẨM
 # (st.set_page_config BẮT BUỘC phải là lệnh Streamlit đầu tiên)
@@ -96,7 +96,7 @@ def create_txt_invoice(customer_name, cart, total_amount, discount, final_amount
 # ---------------------------------------------------------
 # GIAO DIỆN CHÍNH
 # ---------------------------------------------------------
-st.title("QUÁN TRÀ SỮA MR BÌNH")
+st.title("QUÁN TRÀ SỮA ÁNH TUYẾT")
 st.markdown("---")
 
 col_left, col_right = st.columns([1.1, 0.9])
