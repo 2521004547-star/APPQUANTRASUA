@@ -20,27 +20,16 @@ except Exception:
 
 # Danh sách menu & giá (VND)
 MENU_TEA = {
-    "Trà Sữa Truyền Thống": 30000,
+    "Trà Sữa Truyền Thống": 25000,
     "Trà Sữa Trân Châu Đường Đen": 35000,
-    "Trà Sữa Thái Xanh": 32000,
-    "Trà Sữa Ô Long": 35000,
-    "Trà Sữa Matcha": 38000,
+    "Trà Sữa Thái Xanh": 25000,
+    "Trà Sữa Ô Long": 30000,
+    "Trà Sữa Matcha": 35000,
     "Trà Sữa Dâu Tây": 35000,
-    "Trà Đào Cam Sả": 35000,
-    "Trà Dâu Tằm": 32000,
-}
-
-# Danh sách hình ảnh tương ứng với từng món (Có thể thay URL bằng file nội bộ, ví dụ: "images/matcha.jpg")
-MENU_IMAGES = {
-    "Trà Sữa Truyền Thống": "https://images.unsplash.com/photo-1558857563-b371033873b8?w=600",
-    "Trà Sữa Trân Châu Đường Đen": "https://images.unsplash.com/photo-1541658016709-82535e94bc69?w=600",
-    "Trà Sữa Thái Xanh": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=600",
-    "Trà Sữa Ô Long": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600",
-    "Trà Sữa Matcha": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=600",
-    "Trà Sữa Dâu Tây": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=600",
-    "Trà Đào Cam Sả": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=600",
-    "Trà Dâu Tằm": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=600",
-}
+    "Trà Đào Cam Sả": 25000,
+    "Trà Dâu Tằm": 28000,
+    "Matcha latte": 30000,
+    "Hồng trà": 18000
 
 SIZE_OPTIONS = {
     "S (Vừa)": 0,
@@ -53,6 +42,8 @@ TOPPING_OPTIONS = {
     "Trân châu trắng": 7000,
     "Thạch trái cây": 5000,
     "Pudding trứng": 8000,
+    "Trân châu hoàng kim": 5000,
+    "Khoai dẻo": 7000, 
     "Kem Cheese": 10000
 }
 
